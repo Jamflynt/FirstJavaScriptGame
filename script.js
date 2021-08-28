@@ -1,3 +1,5 @@
+// Base code from code along game https://www.youtube.com/watch?v=bG2BmmYr9NQ 
+
 var character = 
 document.getElementById("character");
 var block = document.getElementById("block");
